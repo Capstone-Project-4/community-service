@@ -19,4 +19,3 @@ public class RulesPojo {
     private LocalDateTime contributionDeadline;
     private LocalDateTime communityStartDate;
 }
-

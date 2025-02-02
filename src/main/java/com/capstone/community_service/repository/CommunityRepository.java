@@ -21,4 +21,3 @@ public interface CommunityRepository extends JpaRepository<CommunityEntity, Inte
                                                                             boolean isActive,
                                                                             boolean isDeleted);
 }
-
